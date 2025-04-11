@@ -1,2 +1,3 @@
 first lin in file.txt
 second line in file
+third line added to remote
